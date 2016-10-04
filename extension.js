@@ -49,7 +49,7 @@
       botName: "basicBot",
       language: "english",
       chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
-      scriptLink: "https://raw.githubusercontent.com/ElkSoupMob/custom/master/extension.js",
+      scriptLink: "https://rawgit.com/ElkSoupMob/custom/master/extension.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 50, // 1-200
       startupVolume: 15, // 0-100
